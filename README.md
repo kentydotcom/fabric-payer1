@@ -5,8 +5,11 @@ This project is a use-case example for the [Hyperledger Healthcare Special Inter
 ## Architecture
 
 4 peers - payer, doctor, pharmacist, patient
+
 4 couchDB
+
 Certificate Authority (CA)
+
 Command Line Interface (CLI)
 
 1 channel - prescriptionchannel
